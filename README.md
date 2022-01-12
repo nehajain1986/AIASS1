@@ -1,2 +1,2 @@
-# AIASS1
+# AIASS
 Assignment1
